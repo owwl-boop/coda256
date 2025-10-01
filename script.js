@@ -5,6 +5,10 @@ let MATERIAL_DB = {
         { name: 'ポリ合板LP', spec: '4*8', price: 9500 },
         { name: 'ポリ合板BB', spec: '3*6', price: 4000 },
         { name: 'ポリ合板BB', spec: '4*8', price: 8000 },
+        { name: '白ポリ', spec: '3*6', price: 2000 },
+        { name: '白ポリ', spec: '4*8', price: 5000 },
+        { name: '黒ポリ', spec: '3*6', price: 2500 },
+        { name: '黒ポリ', spec: '4*8', price: 5500 },
         { name: 'メラミン化粧板K,TS,JC', spec: '3*6', price: 6000 },
         { name: 'メラミン化粧板K,TS,JC', spec: '4*8', price: 11000 },
         { name: 'メラミン化粧板SAI,TJ', spec: '3*6', price: 6500 },
@@ -28,6 +32,7 @@ let MATERIAL_DB = {
         { name: 'ラワンランバー21mm', spec: '4*8', price: 5100 },
         { name: 'ラワンランバー24mm', spec: '3*6', price: 3600 },
         { name: 'ラワンランバー24mm', spec: '4*8', price: 6100 },
+        { name: 'パイン集成材', spec: '600*4200*25', price: 13000 },
     ],
     '金物': [
         { name: 'スライド丁番', spec: '360', price: 300 },
